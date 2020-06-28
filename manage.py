@@ -2,6 +2,7 @@
 import os
 import sys
 import re
+import math
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ceshi.settings')
