@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1100e604-7413-4548-9946-4da8fa310437" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1100e604-7413-4548-9946-4da8fa310437" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +52,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="66" />
-    <option name="y" value="20" />
+    <option name="x" value="-19" />
+    <option name="y" value="15" />
     <option name="width" value="1946" />
     <option name="height" value="942" />
   </component>
@@ -143,7 +141,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="20" width="1946" height="942" extended-state="1" />
+    <frame x="-19" y="15" width="1946" height="942" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
