@@ -21,4 +21,5 @@ from app import views
 urlpatterns = [
     url('admin/', admin.site.urls),
     url(r'^reg/$', views.reg),
+    url(r'^reg2/$', views.reg),
 ]

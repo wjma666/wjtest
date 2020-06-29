@@ -26,4 +26,5 @@ def reg(request):
         return HttpResponse('error')
 
 
-
+def ceshi(request):
+    pass
